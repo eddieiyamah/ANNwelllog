@@ -1,5 +1,5 @@
 # Artificial Neural Network built to predict oil well log parameters ('GR', 'SONIC', 'NPHI', 'DENS') of five out of six well log data using the sixth well log data as the input
-# Click "Eddie_Portfolio" to see the predicted values. (Excel spreadsheets)
+# Click "ANNwelllog" to see the predicted values. (Excel spreadsheets)
 from numpy import sqrt
 from sklearn.model_selection import train_test_split
 from tensorflow.keras import Sequential
